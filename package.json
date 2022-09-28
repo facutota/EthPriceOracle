@@ -1,0 +1,14 @@
+{
+  "name": "ethpriceoracle",
+  "version": "1.0.0",
+  "description": "Comunicate to the Oracle to know price of ETH",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Facutota",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.5.31"
+  }
+}
